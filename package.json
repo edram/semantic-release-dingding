@@ -1,0 +1,10 @@
+{
+  "name": "semantic-release-dingding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "edram",
+  "license": "MIT",
+  "dependencies": {
+    "dingtalk-robot-sender": "^1.2.0"
+  }
+}
